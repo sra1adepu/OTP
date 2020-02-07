@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "977218062230",
+    "firebase_url": "https://otpreading-cf8f0.firebaseio.com",
+    "project_id": "otpreading-cf8f0",
+    "storage_bucket": "otpreading-cf8f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977218062230:android:27782e1dd0d84cd199bfb7",
+        "android_client_info": {
+          "package_name": "com.khaja.otpreading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977218062230-5r7hmac6khb5p60iah5h64p61r2qp4us.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khaja.otpreading",
+            "certificate_hash": "8142f1bef57968847a56ef9c0100c98cb59e2e74"
+          }
+        },
+        {
+          "client_id": "977218062230-jv28t08tme6045gj2ln3it2ptcocks0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFZ2t7cQJNRBEhAd9an8Rumx-C9qe3Gcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977218062230-jv28t08tme6045gj2ln3it2ptcocks0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
